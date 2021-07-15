@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Report a LWJGL bug
+about: Report an LWJGL bug
 title: ''
 labels: bug
 assignees: ''
